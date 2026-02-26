@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Booklore",
+    "description": {
+      "en": "Ebook library"
+    },
+    "logo": "logo.png",
+    "screenshots": [
+      "screenshots/screen1.png"
+    ],
+    "categories": [
+      "multimedia"
+    ],
+    "authors": [
+      {
+        "name": "ITKA",
+        "email": "admin@itka.hu"
+      }
+    ],
+    "docs": {
+      "documentation_url": "https://itka.hu",
+      "bug_url": "https://itka.hu",
+      "code_url": "https://itka.hu"
+    },
+    "versions": [
+      {
+        "tag": "0.0.1",
+        "testing": false,
+        "labels": {
+        }
+      }
+    ],
+    "id": "ns8-booklore",
+    "source": "ghcr.io/it-ka/ns8-booklore"
+  }
+]

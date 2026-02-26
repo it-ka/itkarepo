@@ -1,0 +1,21 @@
+{
+    "name": "Booklore",
+    "description": {
+        "en": "Ebook library"
+    },
+    "categories": [
+        "productivity"
+    ],
+    "authors": [
+        {
+            "name": "ITKA",
+            "email": "admin@itka.hu"
+        }
+    ],
+    "docs": {
+        "documentation_url": "https://itka.hu",
+        "bug_url": "https://itka.hu",
+        "code_url": "https://itka.hu"
+    },
+    "source": "ghcr.io/it-ka/ns8-booklore"
+}
